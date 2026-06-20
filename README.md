@@ -50,3 +50,15 @@ This Power BI dashboard analyzes Meta (Facebook & Instagram) advertising perform
 - Learned data transformation using Power Query.
 - Developed KPI-driven business reporting techniques.
 - Enhanced data visualization and storytelling skills.
+
+## Skills Demonstrated
+
+- Data Analysis
+- Data Visualization
+- Power BI
+- DAX
+- Power Query
+- KPI Reporting
+- Dashboard Design
+- Marketing Analytics
+- Business Intelligence
