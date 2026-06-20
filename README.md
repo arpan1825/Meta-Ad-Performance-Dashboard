@@ -26,3 +26,11 @@ This Power BI dashboard analyzes Meta (Facebook & Instagram) advertising perform
 ## Dashboard Preview
 
 ![Dashboard](Dashboard.png)
+
+## Business Insights
+
+- Engagement rate remained strong across campaigns.
+- CTR exceeded 11%, indicating effective ad targeting.
+- Purchase conversions were relatively low compared to total impressions.
+- Facebook and Instagram campaigns generated significant user interactions.
+- Budget allocation can be optimized by focusing on high-converting campaigns.
