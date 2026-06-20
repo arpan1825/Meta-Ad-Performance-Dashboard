@@ -43,3 +43,10 @@ This Power BI dashboard analyzes Meta (Facebook & Instagram) advertising perform
 - Implemented dynamic filters for campaign-level analysis.
 - Analyzed audience demographics, age groups, and geographic performance.
   
+## Learning Outcomes
+
+- Improved Power BI dashboard development skills.
+- Gained hands-on experience with DAX calculations.
+- Learned data transformation using Power Query.
+- Developed KPI-driven business reporting techniques.
+- Enhanced data visualization and storytelling skills.
